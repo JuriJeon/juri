@@ -1,0 +1,17 @@
+table {
+	border-color: red;
+	background-color:yellow;
+}
+td {
+	text-align: center;
+	padding: 60px;
+}
+h1 {
+	color: blue;
+}
+p {
+	color:red;
+}
+tbody{
+	border:1px;
+}
